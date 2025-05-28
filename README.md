@@ -9,8 +9,8 @@
   - 🎨 Bootstrap
   - ☕ Java with DSA
 - 📫 How to reach me:
-    -Email: borishningombam@gmail.com
-    - LinkedIn: www.linkedin.com/in/ningombam-borish-singh-70b34a273
+    -Email: mailto:borishningombam@gmail.com
+    - LinkedIn: https://www.linkedin.com/in/ningombam-borish-singh-70b34a273
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love watching movies on Sundays and enjoy writing poems and short stories in my free time!
 
