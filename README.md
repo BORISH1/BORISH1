@@ -5,7 +5,7 @@
 - 💻 Tech Stack:
   - 🌐 HTML, CSS, JavaScript
   - ⚙️ Node.js, React.js , Next.js
-  - 🐬 MongoDB
+  - 🐬 Postgresql
   - 🎨 Bootstrap
   - ☕ Java with DSA
 - 📫 How to reach me:
