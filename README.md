@@ -6,7 +6,6 @@
   - 🌐 HTML, CSS, JavaScript
   - ⚙️ Node.js, React.js , Next.js
   - 🐬 Postgresql
-  - 🎨 Bootstrap
   - ☕ Java with DSA
 - 📫 How to reach me:
     -Email: mailto:borishningombam@gmail.com
