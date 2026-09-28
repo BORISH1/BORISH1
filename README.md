@@ -44,13 +44,13 @@
       <h3>🗺️ Campus Navigation System</h3>
       <p>Web app for navigating a campus, with pathfinding and separate admin and user panels.</p>
       <p><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white"/></p>
-      <a href="https://github.com/YOUR_USERNAME/REPO_NAME">View repo →</a>
+      
     </td>
     <td width="50%" valign="top">
       <h3>🩺 Skin Lesion Classification</h3>
       <p>Deep learning pipeline on HAM10000 / ISIC2019 using EfficientNetV2-S + Swin fusion, with Grad-CAM explainability and MC-Dropout uncertainty.</p>
       <p><img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/></p>
-      <a href="https://github.com/YOUR_USERNAME/REPO_NAME">View repo →</a>
+     
     </td>
   </tr>
 </table>
@@ -62,7 +62,7 @@
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borish!&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
 
